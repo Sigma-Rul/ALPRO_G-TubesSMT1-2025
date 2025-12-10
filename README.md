@@ -54,7 +54,7 @@ NIM_NamaLengkap_JudulTubes.py
 ### 2. Via Pull Request (Alternatif)
 1. Fork repository ini
 2. Clone repository hasil fork ke komputer kamu
-3. Tambahkan file source code kamu ke folder `submissions/`
+3. Tambahkan file source code kamu ke folder `submissions/` link: https://github.com/desyadelina/ALPRO_A-TubesSMT1-2025/tree/main/submissions
 4. Commit dan push ke repository fork kamu
 5. Buat Pull Request ke repository utama
 
